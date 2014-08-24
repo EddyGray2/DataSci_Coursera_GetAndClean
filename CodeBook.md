@@ -19,4 +19,5 @@ values 'WALKING', 'WALKING UPSTAIRS', 'WALKING DOWNSTAIRS', 'SITTING', 'STANDING
 The 'candidate' column holds a number to represent the anonymous subject who gave rise to the measurements 
 for the variables.
 
+The data has now been combined across 'test' and 'training' data to return to all those candidates who provided data, and has been summarized to the level of candidate and activity being undertaken.
 
